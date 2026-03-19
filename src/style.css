@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.post__header, .post__descr {
+    text-transform: capitalize;
+}
